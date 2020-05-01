@@ -27,3 +27,19 @@ To keep your version synced with any changes that might be added in the original
 
 ## What to do
 Follow the video uploaded on Canvas. Step by step instructions are also in [`TODO.md`](TODO.md).
+
+# Refactored Node.js App for MVC
+
+Name: de Leon, Samantha Isabelle F.
+
+## View All Students
+
+![alt text](screens/view-all.png)
+
+## Add Student
+
+![alt text](screens/add-student.png)
+
+## Search Students
+
+![alt text](screens/search-students.png)
